@@ -8,20 +8,7 @@ Read logs from `stdin` and prints them back to `stdout`, but prettier.
 
 ## With Go installed
 ```bash
-$ go get -u github.com/aybabtme/humanlog/...
-```
-
-## On linux
-
-```bash
-wget -qO- https://github.com/aybabtme/humanlog/releases/download/0.5.0/humanlog_0.5.0_linux_amd64.tar.gz | tar xvz
-```
-
-## On OS X
-
-```bash
-brew tap aybabtme/homebrew-tap
-brew install humanlog
+$ go get -u github.com/zbartl/humanlog/...
 ```
 
 # Example
