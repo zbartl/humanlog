@@ -1,4 +1,4 @@
-module github.com/aybabtme/humanlog
+module github.com/zbartl/humanlog
 
 go 1.15
 
