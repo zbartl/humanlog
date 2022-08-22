@@ -8,7 +8,7 @@ Read logs from `stdin` and prints them back to `stdout`, but prettier.
 
 ## With Go installed
 ```bash
-$ go get -u github.com/zbartl/humanlog/...
+$ go install github.com/zbartl/humanlog/...@latest
 ```
 
 # Example
